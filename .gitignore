@@ -1,0 +1,8 @@
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+expected.out
+failed.out
+src/builtins.jl
+deps/build.log
+docs/build/
